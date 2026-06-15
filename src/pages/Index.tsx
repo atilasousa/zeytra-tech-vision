@@ -259,8 +259,8 @@ const copy = {
 >;
 
 const partners = [
-  { name: "Access Bank", logo: "/access-bank-logo.png" },
-  { name: "BPC", logo: "/bpc-logo.png" },
+  // { name: "Access Bank", logo: "/access-bank-logo.png" },
+  // { name: "BPC", logo: "/bpc-logo.png" },
   { name: "Nus Eventus", logo: "/logo-nus-eventus.png" },
   { name: "Estratus", logo: "/logo-Estratus.jpeg" },
   { name: "Fazenda Agripina", logo: "/agripina-logo.png" },
